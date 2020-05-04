@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorMixer", "ColorMixer.csproj", "{52E612AD-ED88-4B7A-939F-F5F6B8BCD2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E612AD-ED88-4B7A-939F-F5F6B8BCD2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E612AD-ED88-4B7A-939F-F5F6B8BCD2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E612AD-ED88-4B7A-939F-F5F6B8BCD2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E612AD-ED88-4B7A-939F-F5F6B8BCD2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19BA2CFA-B782-4D25-AC16-90F62797A616}
+	EndGlobalSection
+EndGlobal
